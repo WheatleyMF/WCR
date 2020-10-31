@@ -1,4 +1,4 @@
-#Web Comic Reader
+# Web Comic Reader
 
 Hello. Welcome to this repository. I have no fucking idea what are you doing here.
 This is supposed to be some bullshit called "web comic reader" - you click on images and move to new pages. Incredible.
