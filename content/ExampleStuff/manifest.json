@@ -1,0 +1,10 @@
+{
+    "name": "yah",
+    "description": "test project with a description",
+    "date": "31.10.2020 17:00 GMT",
+    "chapters": [
+        "/content/ExampleStuff/aaah.png",
+        "/content/ExampleStuff/aaaaaaa.png"
+    ],
+    "private": false
+}
